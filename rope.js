@@ -26,7 +26,7 @@ class rope{
 
 		
 
-		line(pointA.x,pointA.y,pointB.x,this.offsetx,pointB.y);
+		line(pointA.x, pointA.y, pointB.x + this.offsetX, pointB.y);
 		
 	}
 
